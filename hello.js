@@ -3,8 +3,8 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
+//Adding this here to clarify that this file was completed following the instructions given both within this file as well as in the textbook, Chapter 2: How Programs Work > 'Your First Program'. The instructions here differ from those on the 'Graded Assignments' > 'Assignment 0: Hello, World!' header...
 console.log('Hello, World!');
-
 console.log('PLAY!');
 
 console.log('This is hard');
